@@ -6,3 +6,8 @@ hi hello
 i am sachin
 i am new to python
 i work for it
+
+
+bangalore
+sachin
+mangalore
